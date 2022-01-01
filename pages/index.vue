@@ -56,7 +56,7 @@
           </div>
           <hr class="my-3" />
           <a
-            href="https://nuxtjs.org/"
+            href="https://docs.chainscore.finance/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -64,7 +64,7 @@
           </a>
           <br />
           <a
-            href="https://github.com/nuxt/nuxt.js"
+            href="https://discord.gg/ZhKsjC8464"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -97,7 +97,7 @@ export default {
       faucet: {
         'Harmony Testnet': '0xb0abAc741E1D2074f131A8aC1F66C8EE7aff18bB',
         'Aurora Testnet': '0x019f6c47B96e07C5e80808e19f3aDfF774fb1d47',
-        'Rinkeby': '0x3a891688068Bb769638119943266a74c653D3Fd8',
+        'Rinkeby': '0x1f9B43D937E4028C159C9DDbA3b7C2Fd807994c9',
       },
       networks: [
         {
@@ -148,7 +148,7 @@ export default {
           image: "https://raw.githubusercontent.com/Chainscore/branding/main/Frame%209.png",
         },
         'Rinkeby': {
-          address: "0x1f9B43D937E4028C159C9DDbA3b7C2Fd807994c9",
+          address: "0x019f6c47B96e07C5e80808e19f3aDfF774fb1d47",
           symbol: "SCORE",
           decimals: "18",
           image: "https://raw.githubusercontent.com/Chainscore/branding/main/Frame%209.png",
